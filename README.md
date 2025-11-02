@@ -86,7 +86,7 @@ The platform simplifies volunteer coordination by allowing structured management
 1. Clone Repository
 
 ```bash
-git clone https://github.com/Maryam-Skaik/volunteer-coordination.git
+git clone https://github.com/Maryam-Skaik/volunteer-coordination-system.git
 cd volunteer-coordination
 ```
 
