@@ -87,7 +87,7 @@ The platform simplifies volunteer coordination by allowing structured management
 
 ```bash
 git clone https://github.com/Maryam-Skaik/volunteer-coordination-system.git
-cd volunteer-coordination
+cd volunteer-coordination-system
 ```
 
 2. Install Dependencies
